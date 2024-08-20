@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdoomraycaster.a CMakeFiles/doomraycaster.dir/doomraycaster.cpp.o
+/usr/bin/ranlib libdoomraycaster.a
